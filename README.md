@@ -8,15 +8,6 @@
   width: 0;
   animation: typing 3.5s steps(30, end) forwards, blink 0.75s step-end infinite;
 }
-
-@keyframes typing {
-  from { width: 0; }
-  to { width: 100%; }
-}
-@keyframes blink {
-  from, to { border-color: transparent; }
-  50% { border-color: white; }
-}
 <img width="1692" height="608" alt="Gemini_Generated_Image_s2cwyus2cwyus2cw" src="https://github.com/user-attachments/assets/59640acb-49a9-497f-8d99-b52bceefaa9b" />
 
 <h3 align="center">A passionate frontend and backend developer from Bangladesh</h3>
