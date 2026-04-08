@@ -1,13 +1,4 @@
-<h1 class="typing-animation">Hi 👋, I'm Md sadman Islam Tanvir</h1>
-.typing-animation {
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 2rem;
-  white-space: nowrap;
-  overflow: hidden;
-  border-right: 3px solid #fff; /* কার্সার এফেক্ট */
-  width: 0;
-  animation: typing 3.5s steps(30, end) forwards, blink 0.75s step-end infinite;
-}
+<h1 class="text-center">Hi 👋, I'm Md sadman Islam Tanvir</h1>
 <img width="1692" height="608" alt="Gemini_Generated_Image_s2cwyus2cwyus2cw" src="https://github.com/user-attachments/assets/59640acb-49a9-497f-8d99-b52bceefaa9b" />
 
 <h3 align="center">A passionate frontend and backend developer from Bangladesh</h3>
