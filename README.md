@@ -9,13 +9,10 @@
   animation: typing 3.5s steps(30, end) forwards, blink 0.75s step-end infinite;
 }
 
-/* টাইপিং এফেক্ট */
 @keyframes typing {
   from { width: 0; }
   to { width: 100%; }
 }
-
-/* কার্সার ব্লিঙ্কিং এফেক্ট */
 @keyframes blink {
   from, to { border-color: transparent; }
   50% { border-color: white; }
